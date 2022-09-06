@@ -1,6 +1,6 @@
 # Docker 容器虛擬化踩雷心得
 
-![Demo](/Demo.jpg)
+![Demo](/Docker%20容器虛擬化踩雷心得簡報/Demo.jpg)
 
 ## 色系
 ### 主要色系
