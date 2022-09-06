@@ -1,1 +1,3 @@
-# shere-power-point
+# 個人製作的PPT
+
+在公司内部技術研討會分享的PPT.
