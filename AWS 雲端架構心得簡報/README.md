@@ -1,6 +1,6 @@
-![image](https://github.com/Hi-Alan-Liu/shere-power-point/assets/39164342/cd0f0870-ec01-412e-9df1-901443d531b2)![image](https://github.com/Hi-Alan-Liu/shere-power-point/assets/39164342/87129b34-5841-492b-9ace-dd8481f2356d)# AWS 雲端架構心得簡報
+# AWS 雲端架構心得簡報
 
-![Demo](/Docker%20容器虛擬化踩雷心得簡報/簡報樣式.png)
+![Demo](/AWS%20雲端架構心得簡報/簡報樣式.png)
 
 ## 色系
 ### 主要色系
@@ -32,4 +32,4 @@
 
 ## 參考文獻
 
-- [想學習 AWS 卻又不知道從何下手？初探 AWS 雲端架構]([https://www.cio.com.tw/docker-technology-thats-at-the-expense-of-lunch-break/)](https://medium.com/starbugs/%E6%83%B3%E5%AD%B8%E7%BF%92-aws-%E5%8D%BB%E5%8F%88%E4%B8%8D%E7%9F%A5%E9%81%93%E5%BE%9E%E4%BD%95%E4%B8%8B%E6%89%8B-%E5%88%9D%E6%8E%A2-aws-%E9%9B%B2%E7%AB%AF%E6%9E%B6%E6%A7%8B-2c8d3093b10c)https://medium.com/starbugs/%E6%83%B3%E5%AD%B8%E7%BF%92-aws-%E5%8D%BB%E5%8F%88%E4%B8%8D%E7%9F%A5%E9%81%93%E5%BE%9E%E4%BD%95%E4%B8%8B%E6%89%8B-%E5%88%9D%E6%8E%A2-aws-%E9%9B%B2%E7%AB%AF%E6%9E%B6%E6%A7%8B-2c8d3093b10c)
+- [想學習 AWS 卻又不知道從何下手？初探 AWS 雲端架構](https://medium.com/starbugs/%E6%83%B3%E5%AD%B8%E7%BF%92-aws-%E5%8D%BB%E5%8F%88%E4%B8%8D%E7%9F%A5%E9%81%93%E5%BE%9E%E4%BD%95%E4%B8%8B%E6%89%8B-%E5%88%9D%E6%8E%A2-aws-%E9%9B%B2%E7%AB%AF%E6%9E%B6%E6%A7%8B-2c8d3093b10c)
